@@ -9,6 +9,8 @@ docker pull ghcr.io/dbosoft/license-proxy
 docker run -d -p 5080:5080 ghcr.io/dbosoft/license-proxy
 ```
 
+For non-container and Windows downloads, please refer to the following link: https://www.dbosoft.eu/toolchain/license-proxy
+
 The proxy listens on port **5080** (HTTP) by default.
 
 ## Configuration
